@@ -79,7 +79,7 @@ https://docs.oracle.com/database/121/TDPPH/ch_three_db_access_class.htm#TDPPH149
     
     function connectToDB() {
         global $db_conn;
-        $db_conn = OCILogon('ora_jebach', 'a58958547', 'dbhost.students.cs.ubc.ca:1522/stu');
+        $db_conn = OCILogon('ora_brr2000', 'a10666253', 'dbhost.students.cs.ubc.ca:1522/stu');
 
         if ($db_conn) {
             debugAlertMessage("Database is Connected");

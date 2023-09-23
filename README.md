@@ -10,4 +10,4 @@ Go to the following web page: https://www.students.cs.ubc.ca/~CWLid/project_g3l7
 
 - where CWLid is the CWLid input in server-start.inc.php to log in to oracle
 
-- You can try https://www.students.cs.ubc.ca/~jebach/project_g3l7k_l2l3d_u7y2b/server/home.php
+- You can try https://www.students.cs.ubc.ca/~brr2000/project_g3l7k_l2l3d_u7y2b/server/home.php
